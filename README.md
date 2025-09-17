@@ -1,16 +1,14 @@
-## Hi there 👋
+# ¡Hola! Soy Fiore 👋
 
-<!--
-**Fiorezf/Fiorezf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-Here are some ideas to get you started:
+- 👨‍💻 Actualmente estoy estudiando Analista Programador Universitario. Además soy Lic. y Prof. en Arte.
+- 💼 También hago diseño UX/UI. <p align="left">
+  <a href="https://www.behance.net/fiorellcappare"><img alt="Portfolio" title="Portfolio" src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=koding&logoColor=white"/></a>
+  ## Habilidades:
+   Arte/Diseño: Figma, Photoshop, Illustrator, After Effects, Premiere, Storyboard Pro, Clip Studio, Blender (Básico)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   Programación: Conocimientos básicos de Html, Css, Javascript, Jquery, Bootstrap, Php y MySql
+
+---
+
