@@ -8,7 +8,6 @@
   ## Habilidades:
    Arte/Diseño: Figma, Photoshop, Illustrator, After Effects, Premiere, Storyboard Pro, Clip Studio, Blender (Básico)
 
-   Programación: Conocimientos básicos de Html, Css, Javascript, Jquery, Bootstrap, Php y MySql
 
 ---
 
